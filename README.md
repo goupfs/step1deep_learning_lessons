@@ -1,4 +1,4 @@
-# step1deep_learning_lessons
+# Step1deep_learning_lessons
 2D segmentation for new hand
 
 本篇记录了基于深度学习的图像语义分割学习方法，可作为新手入门阶段的参考和使用，希望大家能共同进步。
